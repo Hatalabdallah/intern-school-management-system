@@ -6,4 +6,7 @@ Role: Backend manager
 
  hard luck is the motion. no giving up....
 
+ this is the seccond day for us to practice git, so far swe are getting there...
+
+
 Learning GitHub
