@@ -10,4 +10,6 @@ Role: Backend manager
 
 git is so interesting to learn to use all time for life.....
 
+Working as a team is one of the best things to do because it makes you not to feel the weight of something....
+
 Learning GitHub
