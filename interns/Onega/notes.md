@@ -8,5 +8,6 @@ Role: Backend manager
 
  this is the seccond day for us to practice git, so far swe are getting there...
 
+git is so interesting to learn to use all time for life.....
 
 Learning GitHub
